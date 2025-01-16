@@ -20,7 +20,7 @@ A Jupyter kernel implementation for the [Bosque programming language](https://gi
 Install via pip:
 
 ```bash
-pip install jupyterlab_bosque_kernel
+pip install jupyterlab-bosque-kernel
 ```
 
 The Bosque kernel will be automatically installed during package installation.
@@ -49,7 +49,7 @@ pip install -e ".[dev]"
 
 ## Project Structure
 
-    jupyterlab_bosque_kernel/
+    jupyterlab-bosque-kernel/
     ├── bosque_kernel/
     │   ├── kernelspec/     # Jupyter kernel specification
     │   ├── wrapper.py      # Bosque execution wrapper
