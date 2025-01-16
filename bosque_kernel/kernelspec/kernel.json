@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "python3",
+    "-m",
+    "bosque_kernel.kernel",
+    "-f",
+    "{connection_file}"
+  ],
+  "name": "bosque",
+  "display_name": "Bosque",
+  "language": "bosque"
+}
